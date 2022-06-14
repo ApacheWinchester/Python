@@ -1,3 +1,1 @@
-print("Teste")
-print("olaaa ")
-# t
+print ("TI")
